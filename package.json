@@ -1,0 +1,27 @@
+{
+  "name": "thai_tokenizer",
+  "version": "1.0.0",
+  "description": "Cut Thai sentences into words ",
+  "keywords": [
+    "thai",
+    "words",
+    "tokenizer",
+    "cut",
+    "wordcutter"
+  ],
+  "homepage": "https://github.com/myridia/thai_tokenizer#readme",
+  "bugs": {
+    "url": "https://github.com/myridia/thai_tokenizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myridia/thai_tokenizer.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Myridia Company",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
