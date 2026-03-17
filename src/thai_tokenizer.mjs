@@ -4,7 +4,7 @@
 "use strict";
 import wordList from "./wordlist.js"; // Import the array
 
-module.exports = class Thai_tokenizer {
+export class Thai_tokenizer {
   /**
 Init 
 @alias module:Thai_tokenizer
@@ -53,4 +53,4 @@ Init
 
     return arr;
   }
-};
+}
