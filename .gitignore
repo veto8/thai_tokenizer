@@ -14,6 +14,7 @@ pages
 vite.config.js
 jsdoc.json
 ask.sh 
+dist
 
 
 

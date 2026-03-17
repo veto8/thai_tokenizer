@@ -9,7 +9,7 @@
     "cut",
     "wordcutter"
   ],
-  "homepage": "https://github.com/myridia/thai_tokenizer#readme",
+  "homepage": "https://thai-tokenizer.myridia.com",
   "bugs": {
     "url": "https://github.com/myridia/thai_tokenizer/issues"
   },
@@ -22,7 +22,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite" 
   },
   "devDependencies": {
     "vite": "^8.0.0"
