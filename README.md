@@ -1,4 +1,4 @@
-# thai_tokenizer
+# ![thai_tokenizer](pages/public/img/icon_192x192.png) 
 
 Cut Thai sentences into words
 
