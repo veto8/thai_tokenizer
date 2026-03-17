@@ -2,7 +2,7 @@
 
 Cut Thai sentences into words
 
-## Setup second remote 
+## Add a second remote repository 
 ```
-ssh://git@codeberg.org/veto/thai_tokenizer.git
+git remote add codeberg ssh://git@codeberg.org/veto/thai_tokenizer.git
 ```
